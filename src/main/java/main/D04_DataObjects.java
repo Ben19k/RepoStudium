@@ -15,7 +15,7 @@ public class D04_DataObjects {
 		sizeInM = 1.8;
 		isMale = true;
 		
-		//Ausgabe
+		//Ausgaben
 		
 	System.out.println("age: "+ age);
 	System.out.println("firstname:"+ firstName);
