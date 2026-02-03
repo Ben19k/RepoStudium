@@ -1,15 +1,15 @@
 package main;
 
 public class D04_DataObjects {
-	// Konstante
+	// Constant
 	public final static double PI = 3.1415;
 	public static void main(String[] args) {
-		// Dekleration
+		// Declaration
 		int age;
 		String name, firstName, famiyName, firstAndFamilyName;
 		double sizeInM;
 		boolean isMale;
-		// innitialisierung
+		// initialisierung
 		age=18;
 		firstName="Ben";
 		sizeInM = 1.8;
@@ -19,7 +19,6 @@ public class D04_DataObjects {
 		
 	System.out.println("age: "+ age);
 	System.out.println("firstname:"+ firstName);
-	//Konstante ausgeben
 	System.out.println("PI:" + PI);
 	}
  
