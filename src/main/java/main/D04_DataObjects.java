@@ -19,6 +19,7 @@ public class D04_DataObjects {
 		
 	System.out.println("age: "+ age);
 	System.out.println("firstname:"+ firstName);
+	//Konstante ausgeben
 	System.out.println("PI:" + PI);
 	}
  
